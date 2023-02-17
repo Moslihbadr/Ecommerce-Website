@@ -1,16 +1,14 @@
 E-Commerce Website
-This is an e-commerce website built using [insert programming language] and [insert framework]. The website allows users to browse products, add them to their cart, and checkout using a secure payment gateway.
+
+
+This is an e-commerce website built using HTML/CSS/Javascript and Bootstrap. The website allows users to browse products, add them to their cart.
 
 Features
-Browse products by category
-Search products by name or description
+
 Add products to cart
 View and edit cart
-Checkout using a secure payment gateway
-User authentication and authorization
-Admin dashboard to manage products, categories, and orders
 Installation
-Clone the repository: git clone https://github.com/[username]/ecommerce-website.git
+Clone the repository: git clone https://github.com/Moslihbadr/ecommerce-website.git
 Install dependencies: npm install
 Create a .env file and add the following environment variables:
 MONGO_URI: MongoDB connection URI
@@ -24,4 +22,4 @@ Contributing
 Contributions are welcome! Please submit a pull request for any changes you would like to make. For major changes, please open an issue first to discuss what you would like to change.
 
 License
-This project is licensed under the [insert license]. See the LICENSE file for more details.
+This project is licensed under the Moslihbadr. See the LICENSE file for more details.
