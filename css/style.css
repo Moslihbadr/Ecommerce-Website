@@ -1063,7 +1063,7 @@ nav .signUp:hover {
     .landingContact .contactDesc p {
         font-size: 10px;
     }
-    .container {
+    .contactContainer {
         height: 100vh;
         flex-direction: column; 
         margin: 10px 0px;
