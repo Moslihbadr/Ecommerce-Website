@@ -14,7 +14,9 @@ Create a .env file and add the following environment variables:
 MONGO_URI: MongoDB connection URI
 JWT_SECRET: Secret key for JSON Web Tokens
 Run the application: npm start
+
 Usage
+
 Visit http://localhost:3000 in your browser to access the website.
 Create an account or sign in with an existing account to browse products, add them to your cart, and checkout.
 If you are an admin, visit http://localhost:3000/admin to access the admin dashboard and manage products, categories, and orders.
