@@ -987,7 +987,7 @@ nav .signUp:hover {
     align-items: center;
 }
 .messageContainer .message {
-    width:70%;
+    width:100%;
     padding:10px;
 }
 .messageContainer .message input {
@@ -1028,33 +1028,6 @@ nav .signUp:hover {
 }
 .messageContainer .message .btnContainer input:hover {
     color: #fff
-}
-.messageContainer .employees {
-    width: 30%;
-    height: 100%;
-    padding: 10px 0;
-}
-.messageContainer .employees .employee {
-    display: flex;
-    margin-bottom: 20px;
-    align-items: start;
-}
-.messageContainer .employees .employee .image{
-    width: 50px;
-    height: 50px;
-    margin-right: 5px;
-}
-.messageContainer .employees .employee .image img {
-    width: 100%;
-    height: 100%;
-}
-.messageContainer .employees .employee h3 {
-    font-size: 20px;
-}
-.messageContainer .employees .employee p {
-    font-size: 13px;
-    color: gray;
-    margin: 0;
 }
 @media screen and (max-width:767px) {
     .landingContact .contactDesc h1 {
