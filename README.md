@@ -11,6 +11,7 @@ Features :
 </ul>
 
 Installation :
+
 Clone the repository: git clone https://github.com/Moslihbadr/ecommerce-website.git
 Install dependencies: npm install
 Create a .env file and add the following environment variables:
